@@ -83,3 +83,14 @@ body {
     color: #b6b7ba;
     line-height: 50px;
 }
+.home__news_list {
+    width: 370px;
+    background: #fff;
+}
+.home__news_list a {
+    font-size: 12px;
+    color: #727374;
+}
+.home__news_list a:hover {
+    color: #2774ff;
+}
