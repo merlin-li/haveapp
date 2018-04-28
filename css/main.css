@@ -1,0 +1,85 @@
+body {
+    position: relative;
+}
+#top__banner {
+    color: #fff;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 78px;
+    z-index: 200;
+}
+#top__banner div {
+    display: inline-block;
+}
+#top__banner .top__logo {
+    margin-left: 50px;
+}
+#top__banner a {
+    color: #fff;
+    font-size: 12px;
+    text-align: center;
+    width: 100px;
+    display: inline-block;
+}
+#top__banner a:hover {
+    text-decoration: underline;
+}
+#actBanBg #actBanBox .m-ban-lnk {
+    width: 172px;
+    height: 45px;
+    color: #fff;
+    background: #2774ff;
+    padding: 0;
+    margin: 0;
+    border-radius: 30px;
+    text-align: center;
+    line-height: 45px;
+    font-size: 14px;
+    border: none;
+}
+#main__function {
+    background: #f7f8fa;
+    height: 666px;
+    width: 100%;
+    overflow: hidden;
+}
+#main__function h4 {
+    font-size: 30px;
+    font-weight: normal;
+    width: 100%;
+    text-align: center;
+    margin-top: 50px;
+}
+#main__function p {
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+    color: #b6b7ba;
+    line-height: 50px;
+}
+#main__function img {
+    margin: 50px auto;
+    max-width: 1000px;
+    display: block;
+}
+#home__news {
+    height: 673px;
+    background: #f7f8fa;
+    overflow: hidden;
+}
+#home__news h4 {
+    font-size: 30px;
+    font-weight: normal;
+    width: 100%;
+    text-align: center;
+    margin-top: 50px;
+}
+#home__news p {
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+    color: #b6b7ba;
+    line-height: 50px;
+}
